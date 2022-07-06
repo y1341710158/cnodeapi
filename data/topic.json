@@ -1,0 +1,8 @@
+{
+  "test_data" : [
+    [{"accesstoken": "","title": "aaaaa","tab": "ask","content": "asdasccc"},401,'错误的accessToken'],
+    [{"accesstoken": "e18de36f-d9ce-47e6-a2aa-1cf6508ec10b","title": "","tab": "ask","content": "asdasccc"},400,'请输入一个标题'],
+    [{"accesstoken": "e18de36f-d9ce-47e6-a2aa-1cf6508ec10b","title": "aaaaa","tab": "ask","content": ""},400,'请选择一个版块']
+]
+
+}
